@@ -18,4 +18,4 @@ search_radius <- "300km"
 twitter_result <- searchTwitter(search_word, n=number_of_tweets, geocode= paste(loc_of_tweets, search_radius, sep=","))
 
 
-
+ 
