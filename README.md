@@ -14,6 +14,7 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
   
     - [data.lacity.gov](http://data.lacity.gov)
     - [geohub.lacity.org](http://geohub.lacity.org)
+    - [dashboard.lamayor.org](http://dashboard.lamayor.org/)
   
   - layers:
   
