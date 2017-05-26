@@ -4,11 +4,11 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
 
   ![](https://sustainsb.github.io/images/scores_flower-plot_sbcounty.png)
   
-- Assign weights on relative importance of goals using **Twitter** to assess social value.
+- Assign weights on relative importance of goals using **Twitter** to assess social value [[#2](https://github.com/ropenscilabs/cityquant/issues/2)].
 
   - [twitterSearch.R](./twitterSearch.R)
 
-- Describe candidate **data layers** for Los Angeles and how they could be combined from:
+- Describe candidate **data layers** for Los Angeles [[#4](https://github.com/ropenscilabs/cityquant/issues/4)].
 
   - LA data sources:
   
@@ -33,8 +33,8 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
       
     - **Transportation** from report [SCAG Regional Travel Demand Model and 2012 Model Validation](http://www.scag.ca.gov/DataAndTools/Pages/TransportationModels.aspx): could map table of values by LA regions
 
-- Calculate scores automatically using **Travis Continuous Integration**, using [sustainsb.github.io](http://sustainsb.github.io) fetching USGS groundwater measurements as an example.
+- Calculate scores automatically using **Travis Continuous Integration**, using [sustainsb.github.io](http://sustainsb.github.io) fetching USGS groundwater measurements as an example [[#1]](https://github.com/ropenscilabs/cityquant/issues/1).
 
-- Tweak rstudio/leaflet to allow for **choropleth maps** with select dropdown list, rather than simple [show/hide layers](http://rstudio.github.io/leaflet/showhide.html).
+- Tweak rstudio/leaflet to allow for **choropleth maps** with select dropdown list, rather than simple [show/hide layers](http://rstudio.github.io/leaflet/showhide.html) [[#3](https://github.com/ropenscilabs/cityquant/issues/3)].
 
 We’ll populate these into the [LA public **Trello board** of projects]( https://trello.com/b/8TNcO49a/d4d-city-of-la-project-board) to recruit fellow city data scientist enthusiasts.
