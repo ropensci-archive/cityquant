@@ -8,7 +8,12 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
 
   - [twitterSearch.R](./twitterSearch.R)
 
+- Describe candidate **data layers** for Los Angeles and how they could be combined from:
+
+  - [data.lacity.gov](http://data.lacity.gov)
+  - [geohub.lacity.org](http://geohub.lacity.org)
+
 - Calculate scores automatically using **Travis Continuous Integration**, using [sustainsb.github.io](http://sustainsb.github.io) fetching USGS groundwater measurements as an example.
 - Tweak rstudio/leaflet to allow for **choropleth maps** with select dropdown list, rather than simple [show/hide layers](http://rstudio.github.io/leaflet/showhide.html).
 
-We’ll populate these into the [LA public trello board of projects]( https://trello.com/b/8TNcO49a/d4d-city-of-la-project-board) to recruit fellow city data scientist enthusiasts.
+We’ll populate these into the [LA public **Trello board** of projects]( https://trello.com/b/8TNcO49a/d4d-city-of-la-project-board) to recruit fellow city data scientist enthusiasts.
