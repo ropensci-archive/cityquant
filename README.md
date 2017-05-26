@@ -39,3 +39,7 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
 - Tweak rstudio/leaflet to allow for **choropleth maps** with select dropdown list, rather than simple [show/hide layers](http://rstudio.github.io/leaflet/showhide.html) [[#3](https://github.com/ropenscilabs/cityquant/issues/3)].
 
 We’ll populate these into the [LA public **Trello board** of projects]( https://trello.com/b/8TNcO49a/d4d-city-of-la-project-board) to recruit fellow city data scientist enthusiasts.
+
+
+
+PS: we have a spin-off of this: a quantified self package for collecting, visualising and archiving data about yourself called [selfquant](https://github.com/maczokni/selfquant)
