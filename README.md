@@ -24,6 +24,8 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
     
       - use [ropensci/tabulizer](https://github.com/ropensci/tabulizer) to extract table from pdf
       
+      - context: [GHG Protocol for Cities](http://www.ghgprotocol.org/greenhouse-gas-protocol-accounting-reporting-standard-cities)
+      
     - **Transportation** from report [SCAG Regional Travel Demand Model and 2012 Model Validation](http://www.scag.ca.gov/DataAndTools/Pages/TransportationModels.aspx): could map table of values by LA regions
 
 - Calculate scores automatically using **Travis Continuous Integration**, using [sustainsb.github.io](http://sustainsb.github.io) fetching USGS groundwater measurements as an example.
