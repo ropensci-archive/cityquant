@@ -10,15 +10,19 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
 
 - Describe candidate **data layers** for Los Angeles and how they could be combined from:
 
-  - sources:
+  - LA data sources:
   
     - [data.lacity.gov](http://data.lacity.gov)
     - [geohub.lacity.org](http://geohub.lacity.org)
     - [gisdata.scag.ca.gov](http://gisdata.scag.ca.gov)
-    - [dashboard.lamayor.org](http://dashboard.lamayor.org)
-    - [pLAn.lamayor.org](http://plan.lamayor.org)
     
-  - layers:
+  - LA data uses:
+  
+    - [dashboard.lamayor.org](http://dashboard.lamayor.org)
+    - [pLAn.lamayor.org](http://plan.lamayor.org)  
+    - [UrbanMobilityLA.com/data](http://www.urbanmobilityla.com/data)
+
+  - data layers:
   
     - **Greenhouse Gases** from report 
     [Southern California Association of Governments (SCAG) Regional Greenhouse Gas Emissions Inventory and Reference Case Projections, 1990-2035](http://sustain.scag.ca.gov/Pages/ClimateEconomicDevProject.aspx)
