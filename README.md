@@ -22,6 +22,8 @@ The ultimate goal here is to build a digital dashboard for sustainable cities. W
     [Southern California Association of Governments (SCAG) Regional Greenhouse Gas Emissions Inventory and Reference Case Projections, 1990-2035](http://sustain.scag.ca.gov/Pages/ClimateEconomicDevProject.aspx)
     
       - use [ropensci/tabulizer](https://github.com/ropensci/tabulizer) to extract table from pdf
+      
+    - **Transportation** from report [SCAG Regional Travel Demand Model and 2012 Model Validation](http://www.scag.ca.gov/DataAndTools/Pages/TransportationModels.aspx): could map table of values by LA regions
 
 - Calculate scores automatically using **Travis Continuous Integration**, using [sustainsb.github.io](http://sustainsb.github.io) fetching USGS groundwater measurements as an example.
 
